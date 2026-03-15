@@ -19,7 +19,7 @@ I'm a cybersecurity professional with hands-on experience across the full securi
 - Incident Response
 - Security Engineering
 
-📍 Foley, Alabama | 📧 steven.c.anderson@gmail.com | 🔗 [GitHub](https://github.com/anderson-cyber-lab)
+📍 Foley, Alabama | 📧 steven.c.anderson@gmail.com | 🔗 [GitHub](https://github.com/anderson-cyber-lab) | 🔗 [Home Virtual Practice Lab](https://github.com/anderson-cyber-lab/Home-Lab)
 
 ---
 
